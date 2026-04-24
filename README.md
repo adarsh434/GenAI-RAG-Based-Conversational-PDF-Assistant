@@ -20,11 +20,11 @@
 | Layer | Technology |
 |---|---|
 | Frontend | Streamlit |
-| LLM | OpenAI GPT / Gemini / (your model) |
-| Embeddings | OpenAI / HuggingFace Embeddings |
-| Vector Store | FAISS |
+| LLM | ChatMistralAI |
+| Embeddings | MistralAIEmbeddings|
+| Vector Store | Chroma |
 | RAG Framework | LangChain |
-| PDF Parsing | PyPDF2 / pdfplumber |
+| PDF Parsing | PyPDF2 |
 
 ---
 
@@ -34,9 +34,8 @@
 GenAI-RAG-PDF-Assistant/
 │
 ├── app.py                  # Main Streamlit app
-├── rag_pipeline.py         # RAG chain setup (retriever + LLM)
-├── pdf_processor.py        # PDF loading and chunking
-├── vector_store.py         # FAISS index creation and querying
+├── RAG_Test.py             # RAG chain setup (retriever + LLM)
+├── create_database.py      # PDF loading and chunking
 ├── requirements.txt        # Python dependencies
 ├── .env.example            # Environment variable template
 └── README.md
