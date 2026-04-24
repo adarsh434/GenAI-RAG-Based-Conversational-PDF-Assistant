@@ -1,0 +1,30 @@
+# Core LangChain packages
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+
+# Mistral AI client
+mistralai
+
+# Vector store & embeddings
+faiss-cpu
+chromadb
+
+# Document loaders & text splitting
+pypdf
+unstructured
+python-docx
+
+# Environment variable management
+python-dotenv
+
+# Utilities
+tiktoken
+numpy
+
+# Frontend
+flask
+flask-cors
+langchain-text-splitters
+rich
