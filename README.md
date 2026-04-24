@@ -112,11 +112,11 @@ Answer displayed in chat UI
 > _Add screenshots of your app here_
 
 ```
-![App Screenshot](/Upload.png)
-![App Screenshot](/Chat1.png)
-![App Screenshot](/chat2.png)
-![App Screenshot](/chat3.png)
-![App Screenshot](/chat4.png)
+![App Screenshot](Upload.png)
+![App Screenshot](Chat1.png)
+![App Screenshot](chat2.png)
+![App Screenshot](chat3.png)
+![App Screenshot](chat4.png)
 ```
 
 ---
