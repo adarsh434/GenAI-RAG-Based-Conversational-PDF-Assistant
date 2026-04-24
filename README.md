@@ -109,15 +109,11 @@ Answer displayed in chat UI
 
 ## 📸 Screenshots
 
-> _Add screenshots of your app here_
-
-```
-![App Screenshot](Upload.png)
-![App Screenshot](Chat1.png)
-![App Screenshot](chat2.png)
-![App Screenshot](chat3.png)
-![App Screenshot](chat4.png)
-```
+![Demo Screenshot](Upload.png)
+![Demo Screenshot](Chat1.png)
+![Demo Screenshot](chat2.png)
+![Demo Screenshot](chat3.png)
+![Demo Screenshot](chat4.png)
 
 ---
 
@@ -132,43 +128,3 @@ pypdf2
 python-dotenv
 openai
 ```
-
----
-
-## 🔮 Roadmap
-
-- [ ] Multi-PDF support
-- [ ] Chat history persistence
-- [ ] Support for more file types (DOCX, TXT)
-- [ ] Local LLM support (Ollama / LLaMA)
-- [ ] Deploy to Streamlit Cloud / HuggingFace Spaces
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
-
-1. Fork the repo
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## 👤 Author
-
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-
----
-
-> ⭐ If you found this project helpful, please give it a star!
