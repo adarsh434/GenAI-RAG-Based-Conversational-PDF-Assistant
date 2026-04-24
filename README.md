@@ -1,6 +1,6 @@
 # 📄 GenAI RAG-Based Conversational PDF Assistant
 
-> An AI-powered document assistant that lets you **chat with your PDFs** using Retrieval-Augmented Generation (RAG) — built with LangChain, FAISS, and Streamlit.
+> An AI-powered document assistant that lets you **chat with your PDFs** using Retrieval-Augmented Generation (RAG) — built with LangChain, Chroma, and Streamlit.
 
 ---
 
@@ -9,7 +9,7 @@
 - 📤 **Upload any PDF** and start asking questions instantly
 - 🧠 **RAG pipeline** — retrieves relevant context before generating answers
 - 💬 **Conversational interface** — ask follow-up questions naturally
-- ⚡ **Fast vector search** using FAISS
+- ⚡ **Fast vector search** using Chroma
 - 🎨 **Clean Streamlit UI** with a custom-styled chat input
 - 🔒 Runs locally — your documents stay on your machine
 
